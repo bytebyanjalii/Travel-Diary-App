@@ -27,6 +27,7 @@ Welcome to your personal travel companion! 🧳💙 The Travel Diary App is a be
 
 Whether you’re exploring the Alps 🏔️, strolling through Paris 🗼, wandering deserts 🏜️, or relaxing on tropical beaches 🏝️ — this app is your digital scrapbook for memories. 🌟
 
-Start preserving your wanderlust — one destination at a time. 🗺️🛫💬
-Let your story unfold beautifully. 📚💫🌈
+Start preserving your wanderlust — one destination at a time. 
+
+🗺️🛫💬Let your story unfold beautifully. 📚💫🌈
 
